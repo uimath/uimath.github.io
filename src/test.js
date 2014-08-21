@@ -1,0 +1,1 @@
+var __name__ = "uimath";
